@@ -1,1 +1,15 @@
 https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats/
+https://thedatafrog.com/en/articles/dogs-vs-cats/
+https://home.csulb.edu/~jchang9/m521/m695_sp10_FinalReport_Minh_Angela.pdf
+https://www.cim.mcgill.ca/~chuwang/files/cat_dog/cat_dog_pdf.pdf
+https://www.kaggle.com/code/baners/a-logistic-regression-classifier-to-recognize-cats
+https://medium.com/wwcode-python/is-it-a-cat-or-a-dog-python-machine-learning-tutorial-for-image-recognition-1fa76149265c
+https://www.shs-conferences.org/articles/shsconf/pdf/2022/14/shsconf_stehf2022_03017.pdf
+https://www.researchgate.net/publication/376751387_Animal_Classification_using_Convolutional_Neural_Network
+https://ieeexplore.ieee.org/document/9836676
+
+
+
+DATASETS
+
+https://www.kaggle.com/datasets/iamsouravbanerjee/animal-image-dataset-90-different-animals
