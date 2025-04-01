@@ -78,13 +78,13 @@ def main():
         transforms.ToTensor()
     ])
 
-    train_data = datasets.ImageFolder("dataset/training_set", transform=transform)
+    train_data = datasets.ImageFolder("full_dataset/training_set", transform=transform)
     train_loader = DataLoader(train_data, batch_size=batch_size, shuffle=True)
     
-    valid_data = datasets.ImageFolder("dataset/validation_set", transform=transform)
+    valid_data = datasets.ImageFolder("full_dataset/validation_set", transform=transform)
     valid_loader = DataLoader(valid_data, batch_size=batch_size)
     
-    test_data = datasets.ImageFolder("dataset/test_set", transform=transform)
+    test_data = datasets.ImageFolder("full_dataset/test_set", transform=transform)
     test_loader = DataLoader(test_data, batch_size=batch_size)
     
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")   # if gpu available
